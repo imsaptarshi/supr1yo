@@ -8,6 +8,5 @@ Some information about me:
 - 😄 Pronouns: He/Him
 
 
-### My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=CoderSupriyo&show_icons=true&hide=prs,issues">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSupriyo&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSupriyo">
