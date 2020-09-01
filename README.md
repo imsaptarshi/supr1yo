@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello visitor 👋
 
 ![](https://komarev.com/ghpvc/?username=CoderSupriyo&color=blue)
 
 
-- 🔭 I’m currently working on Clash Search ( A Discord bot based on Clash of Clans )
-- 🌱 I’m currently learning Nodejs and Python
-- 📫 How to reach me? Email me or ping me on Discord! ( Username: Supriyo#2199 )
+- 🔭 I’m currently working on <a href="https://clashsearch.vercel.app">Clash Search</a>
+- 🌱 I’m currently learning Node.js  and Python.
+- 📫 How to reach me? E-mail me or ping me on my <A href-"https://discord.gg/JahbJww">Discord server</a> 
 - 😄 Pronouns: He/Him
 
 
