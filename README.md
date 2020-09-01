@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Some information about me:
+![](https://komarev.com/ghpvc/?username=CoderSupriyo&color=blue)
+
 
 - 🔭 I’m currently working on Clash Search ( A Discord bot based on Clash of Clans )
 - 🌱 I’m currently learning Nodejs and Python
