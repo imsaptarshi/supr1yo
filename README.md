@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=CoderSupriyo&color=blue)
 
 
-- 🔭 I’m currently working on <a href="https://clashsearch.vercel.app">Clash Search</a>
 - 🌱 I’m currently learning Node.js  and Python.
 - 📫 How to reach me? E-mail me or ping me on my <A href="https://discord.gg/JahbJww">Discord server</a> 
 - 😄 Pronouns: He/Him
