@@ -9,5 +9,5 @@
 - 😄 Pronouns: He/Him
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=CoderSupriyo&show_icons=true&hide=prs,issues">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSupriyo">
+<img src="https://github-readme-stats.vercel.app/api?username=supr1yo&show_icons=true&hide=prs,issues">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supr1yo">
